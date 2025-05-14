@@ -3,9 +3,8 @@
 ## Hola soy Jesús Canales 👋
 
 ## 🚀 Sobre mí
-Soy Profesor de mentes inquietas, Programador de ideas revolucionarias, guía en la batalla por el conocimiento y la innovación.
-
-No temo el cambio, lo lidero. No sigo tendencias, las creo.
+👨‍💻 Soy Profesor de mentes inquietas, Programador de ideas revolucionarias, guía en la batalla por el conocimiento y la innovación.
+🦁⚔️ No temo el cambio, lo lidero. No sigo tendencias, las creo. 🛡️
 
 ## 📌 Cursos que imparto
 - 🔹 Automatización con Google Apps Script
