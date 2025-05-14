@@ -3,7 +3,8 @@
 ## Hola soy Jesús Canales 👋
 
 ## 🚀 Sobre mí
-Soy un Profesor y Programador interesado por tecnología y la enseñanza.
+Soy Profesor de mentes inquietas, Programador de ideas revolucionarias, guía en la batalla por el conocimiento y la innovación.
+No temo el cambio, lo lidero. No sigo tendencias, las creo.
 
 ## 📌 Cursos que imparto
 - 🔹 Automatización con Google Apps Script
