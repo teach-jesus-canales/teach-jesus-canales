@@ -1,6 +1,6 @@
-## Hola soy Jesús Canales 👋
-
 ![Bienvenido a mi perfil](https://i.postimg.cc/G2fn3Q7c/banner.jpg)
+
+## Hola soy Jesús Canales 👋
 
 ## 🚀 Sobre mí
 Soy un Profesor y Programador interesado por tecnología y la enseñanza.
