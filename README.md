@@ -1,6 +1,6 @@
 ## Hola soy Jesús Canales 👋
 
-![Bienvenido a mi perfil]([https://example.com/tu-imagen-banner.png](https://media.licdn.com/dms/image/v2/D4E16AQHLTVaymKpulg/profile-displaybackgroundimage-shrink_350_1400/B4EZUr84HJH0AY-/0/1740199134282?e=1752710400&v=beta&t=x34Ias-H13d-ssxTqda_JAtj3DIN7d2FI0qY4VwTauQ))
+![Bienvenido a mi perfil](https://i.postimg.cc/G2fn3Q7c/banner.jpg)
 
 ## 🚀 Sobre mí
 Soy un Profesor y Programador interesado por tecnología y la enseñanza.
