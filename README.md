@@ -17,6 +17,8 @@
 🔹 Pruebas de Software Automatizadas  
 
 ## 🎯 Proyectos de Innovación
-Los proyectos que asesoro siempre van enfocados a una modelo de negocio real, buscando que los participantes puedan aplicar al máximo sus conocimientos, habilidades de trabajo en equipo y promoviendo la investigación constante.
+Los proyectos que asesoro siempre van enfocados a una modelo de negocio real, buscando que los participantes puedan aplicar al máximo sus conocimientos, habilidades de trabajo en equipo y promoviendo la investigación constante.  
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=teach-jesus-canales&color=blue)
 
 
